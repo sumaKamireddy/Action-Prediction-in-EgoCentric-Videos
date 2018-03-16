@@ -25,10 +25,5 @@ Snippet - A short part of the video typically of few seconds(here 2 secs).
 2.The second task evaluates the ability to make future predictions. Here a video showing part on an activity plus two
 shorter snippets are provided and the model predicts which of the two snippets comes next temporally in the video.   
 
-Since the above model only predicts temporal order of the actions but does not recognize it we are implementing new approach for the action recognition.
-
-After the recognition of the action from the video we extend this model for predicting the action using our previous work.
-
-
 
 
